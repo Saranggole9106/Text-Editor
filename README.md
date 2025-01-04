@@ -1,9 +1,9 @@
-Basic Text Editor,
+BASIC TEXT EDITOR,
 
 
 
 
-Description
+Heloo
 This is a simple command-line text editor implemented in C++. The editor allows users to perform basic file operations such as opening, editing, saving, and displaying text files. It is designed to be user-friendly and straightforward, making it suitable for educational purposes and small text editing tasks.
 
 Features:
